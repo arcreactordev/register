@@ -1,0 +1,10 @@
+{
+  "description": "ZITIX Portfolio",
+  "repo": "https://github.com/zitixly",
+  "owner": {
+    "username": "zitixly"
+  },
+  "record": {
+    "CNAME": "zitixly.vercel.app"
+  }
+}
